@@ -1,0 +1,19 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {1}{Outline}{2}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Background}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Basic Principles}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Applications}{16}{0}{2}
+\beamer@sectionintoc {3}{"Game Of Life"}{19}{0}{3}
+\beamer@subsectionintoc {3}{1}{Introduction}{19}{0}{3}
+\beamer@subsectionintoc {3}{2}{Rules}{20}{0}{3}
+\beamer@subsectionintoc {3}{3}{Results}{23}{0}{3}
+\beamer@subsectionintoc {3}{4}{Change of Rules}{27}{0}{3}
+\beamer@subsectionintoc {3}{5}{Results}{28}{0}{3}
+\beamer@sectionintoc {4}{Sandpile Model}{33}{0}{4}
+\beamer@subsectionintoc {4}{1}{Model}{38}{0}{4}
+\beamer@subsectionintoc {4}{2}{Results}{43}{0}{4}
+\beamer@subsectionintoc {4}{3}{Properties}{47}{0}{4}
+\beamer@subsectionintoc {4}{4}{Snapshots}{54}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{59}{0}{5}
+\beamer@sectionintoc {6}{Cited}{60}{0}{6}
